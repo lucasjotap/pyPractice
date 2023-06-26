@@ -16,6 +16,6 @@ class Car:
 		self.mileage = new_mileage
 		print(f"The car's new mileage is {self.mileage}")
 
-car = Car("Audi", "A3", 1997, 103)
-car.get_info()
-car.update_mileage(105)
+# car = Car("Audi", "A3", 1997, 103)
+# car.get_info()
+# car.update_mileage(105)
